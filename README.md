@@ -20,12 +20,15 @@ Verilog Modules:
 
 # Simulation Results
 Simulation is run on Modelsim. Data in address 1 with 2 overlapping sequences waveforms:
+
 ![image](https://github.com/AlaaTaha32/Overlapping-Sequence-Detector/assets/154026967/a4272dcb-33d6-448f-9b87-4a8b51369398)
 
 The module is reset, then data in address 2 has 0 detected “1011” overlapping sequences.
+
 ![image](https://github.com/AlaaTaha32/Overlapping-Sequence-Detector/assets/154026967/c9659dda-ea79-4129-b379-f552010d2ad4)
 
 The module is reset, then data in address 3 has 1 detected “1011” overlapping sequences.
+
 ![image](https://github.com/AlaaTaha32/Overlapping-Sequence-Detector/assets/154026967/1db934e6-66b6-4662-879d-3ac658e2b1e0)
 
 
